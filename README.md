@@ -2,7 +2,7 @@
 
 ![Build Status](https://api.travis-ci.org/sqwiggle/sqwiggle-ruby.png)
 
-A Ruby wrapper for the Sqwiggle REST API
+A Ruby wrapper for the Sqwiggle REST API.
 
 ## Installation
 
